@@ -15,6 +15,6 @@ EDA / анализ данных: строятся boxplot, гистограмм�
 Визуализация: активно используются Matplotlib, Seaborn и Plotly — scatter plots, heatmaps, boxplots, гистограммы, dendrograms, 2D/3D представление данных.
 Основной стек: Python, Pandas, NumPy, scikit-learn, Matplotlib, Seaborn, SciPy/Statsmodels, Plotly.
 
-ПО сути был проведён классический ML pipeline: загрузка данных → EDA → анализ корреляций/выбросов → regression → clustering → PCA/t-SNE → classification → train/test → cross-validation → evaluation metrics → visualization.
+Обобщая, был проведён классический ML pipeline: загрузка данных → EDA → анализ корреляций/выбросов → regression → clustering → PCA/t-SNE → classification → train/test → cross-validation → evaluation metrics → visualization.
 
 Stack: Python, Pandas, NumPy, scikit-learn, SciPy, Matplotlib, Seaborn, Plotly.
